@@ -1,1 +1,2 @@
-# This is a simple calculator system that returns four different answers using four different operations.
+# SimpleCalculator System
+This is a simple calculator system that returns four different answers using four different operations.
